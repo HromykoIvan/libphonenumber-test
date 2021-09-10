@@ -18,5 +18,3 @@
 1|America/Adak
 1201|America/New_York
 1202|America/New_York
-
-I can update this file
