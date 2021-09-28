@@ -19,3 +19,5 @@
 1201|America/New_York
 1202|America/New_York
 1248|America/New_Jersey
+12587|America/California
+126703|Russia/Moscow
