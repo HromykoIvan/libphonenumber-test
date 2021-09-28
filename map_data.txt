@@ -18,3 +18,4 @@
 1|America/Adak
 1201|America/New_York
 1202|America/New_York
+1248|America/New_Jersey
