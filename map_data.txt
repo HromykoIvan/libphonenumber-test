@@ -16,4 +16,9 @@
 # Internal statistics data (2018-06-12).
 
 91706458|Indian/Chagos
-33757130734|France/Paris
+33757130734|Europe/Paris
+447458196593|Europe/London
+46731290162|Europe/Stockholm
+14703105856|Pacific/Honolulu
+919090407368|Indian/Mahe
+33757130740|Europe/Paris
