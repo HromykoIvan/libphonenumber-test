@@ -16,3 +16,4 @@
 # Internal statistics data (2018-06-12).
 
 91706458|Indian/Chagos
+33757130734|France/Paris
