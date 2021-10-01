@@ -15,6 +15,7 @@
 # Generated from:
 # Internal statistics data (2018-06-12).
 
+234|Russia/Moscow
 1111|Belarus/Minsk
 91706458|Indian/Chagos
 33757130734|Europe/Paris
